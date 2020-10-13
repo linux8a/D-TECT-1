@@ -92,3 +92,4 @@ docker run -it --rm d-tect:alpine3-12
 * Curt Smith
 * Tayyab Qadir
 * Mugees Ahmad
+* Argenis Ochoa
