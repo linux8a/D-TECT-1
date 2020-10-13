@@ -69,6 +69,25 @@ python d-tect.py
 ###Same Site Scripting detection:
 ![Same-Site Scripting](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/samesitescripting.jpeg)
 
+
+* Docker image :)
+
+### Use
+
+* Build
+
+```
+docker build -t d-tect:alpine3-12 -f ./Dockerfile .
+```
+
+Use
+
+```
+docker run -it --rm d-tect:alpine3-12
+```
+
+![Captura](./Screenshots/Screenshot.png)
+
 # Special Thanks To:
 * Curt Smith
 * Tayyab Qadir
