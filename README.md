@@ -5,6 +5,9 @@ Author: [Shawar Khan] (https://shawarkhan.com/about/)
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
+Author Dockerfile: [Linux8a linux8a@gmail.com]  
+Details: Only create Dockerfile for run in Docker
+
 ###Compatibility:
 * Any platform using Python 2.7
 
