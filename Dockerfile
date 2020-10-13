@@ -8,8 +8,8 @@ RUN apk update \
 	&& apk add git \
 	&& rm -rf /var/cache/apk/*
 RUN cd / \
-	git clone https://github.com/linux8a/D-TECT-1.git \
-    cd /D-TECT-1
+      && git clone https://github.com/linux8a/D-TECT-1.git \
+    && cd /D-TECT-1
 
 WORKDIR  /D-TECT-1
 
