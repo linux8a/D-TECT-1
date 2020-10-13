@@ -12,5 +12,5 @@ RUN cd / \
     && cd /D-TECT-1
 
 WORKDIR  /D-TECT-1
+ENTRYPOINT ["/usr/bin/python2", "/D-TECT-1/d-tect.py" ]
 
-CMD [python2 d-tect.py]
